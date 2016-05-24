@@ -1,16 +1,16 @@
 This project is a Laravel Admin Template, which has common features for all kind of projects, help you (and help me) go fast to build admin page.
 When start new project, we just clone this repo and make it no pain again.
-Here is my intention, I hope some people will find and develop more common features.
+Here is my intention, I hope some people will found and develop more common features.
 
 # Features
 In version 1.0
 
-[x] Admin page with Gentelella UI
-[x] Authentication and authorization with Zizaco/Entrust
-[x] HTML Form template (I hate Laravel Collective)
-[x] Make thumb images from upload
-[ ] Config manager
-[x] User manager
+- [x] Admin page with Gentelella UI
+- [x] Authentication and authorization with Zizaco/Entrust
+- [x] HTML Form template (I hate Laravel Collective)
+- [x] Make thumb images from upload
+- [ ] Config manager
+- [x] User manager
 
 # Installation guide for dev
 
