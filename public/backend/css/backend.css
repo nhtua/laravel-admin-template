@@ -1,0 +1,72 @@
+.cms-logo {
+	-moz-transform: translate(0,-2px);
+	-webkit-transform: translate(0,-2px);
+	-o-transform: translate(0,-2px);
+	transform: translate(0,-2px);
+}
+.mx-thumbnail, .mx-audio-player {
+	width: 300px;
+}
+th.sorting {cursor: pointer;}
+.daterangepicker select.monthselect, .daterangepicker select.yearselect {
+	color: #3f3f3f;
+}
+
+.notify {
+	padding: 3px 9px;
+	font-weight: bold;
+	background: #d43f3a;
+	border-radius: 12px;
+}
+.breadcrumb > li + li:before {
+   color: #CCCCCC;
+   content: "/ ";
+   padding: 0 5px;
+}
+.breadcrumb>.active {
+  font-weight: 700;
+}
+.cv-file-icon {
+  font-size: 24px;
+}
+.row.full-pad {
+  min-height: calc(100vh - 90px);
+}
+
+.pagination>li>a, .pagination>li>span{
+  outline: 0;
+  border: none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  background-color: #ddd;
+  color: #5A738E;
+  padding: 6px 9px;
+  margin: 0 3px;
+  font-size: 13px;
+  line-height: 22px;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+.pagination>li>a:hover, 
+.pagination>li>span:hover, 
+.pagination>li>a:focus, 
+.pagination>li>span:focus {
+  background-color: #ccc;
+}
+
+.pagination>.disabled>a,
+.pagination>.disabled>span,
+.pagination>.disabled>a:hover,
+.pagination>.disabled>span:hover {
+  background-color: #ccc;
+}
+
+.pagination>.active>a, 
+.pagination>.active>span{
+  background-color: rgba(38, 185, 154, 0.59) !important;
+  border-color: rgba(38, 185, 154, 0.59) !important;
+}
+
+.pull-right>.input-group {
+  float:right;
+}
