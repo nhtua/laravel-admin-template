@@ -71,5 +71,5 @@ At last, you need to point the dev domain to `/root/public` in server configurat
 
 
 ## Credits
-- Thank (Gentelella)[https://github.com/puikinsh/gentelella] for advanced Bootstrap Template
+- Thank [Gentelella](https://github.com/puikinsh/gentelella) for advanced Bootstrap Template
 - And others third-party package for Laravel
