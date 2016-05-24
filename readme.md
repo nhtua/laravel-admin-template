@@ -68,3 +68,8 @@ At last, you need to point the dev domain to `/root/public` in server configurat
 1. Go to `http://your-domain.dev/dashboard`
 2. Login by default account: admin@demo.com / 123456a@
 3. Enjoy your-self
+
+
+## Credits
+- Thank (Gentelella)[https://github.com/puikinsh/gentelella] for advanced Bootstrap Template
+- And others third-party package for Laravel
