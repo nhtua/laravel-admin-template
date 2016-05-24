@@ -11,6 +11,7 @@ In version 1.0
 - [x] Make thumb images from upload
 - [ ] Config manager
 - [x] User manager
+- [x] Role manager
 
 # Installation guide for dev
 
